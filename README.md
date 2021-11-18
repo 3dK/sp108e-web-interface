@@ -9,3 +9,7 @@ Requirements: php and nc
 Installation: update IP address for SP108E under lights.php
 
 Limitations: no feedback when pushing commands via nc
+
+
+Control commands:												
+![image](https://user-images.githubusercontent.com/9059106/142406635-339314ce-4156-4a7b-911f-78fb00cbd098.png)
